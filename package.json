@@ -1,7 +1,7 @@
 {
-  "name": "jekjayapp",
+  "name": "myapp",
   "version": "1.1.1",
-  "description": "JekJayApp: An Ionic project",
+  "description": "myapp: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
